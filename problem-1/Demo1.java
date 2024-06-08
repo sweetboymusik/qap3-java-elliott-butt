@@ -1,4 +1,4 @@
-public class Demo {
+public class Demo1 {
     public static void main(String[] args) {
         Person elliott = new Person("Elliott Butt", 33, "M");
         Student stacey = new Student("Stacey Warford", 19, "F", "1991092BCA", 4.0);
