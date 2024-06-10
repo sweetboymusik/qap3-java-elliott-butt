@@ -1,7 +1,7 @@
 public class CollegeStudent extends Student {
     // instance variables
-    protected String major;
-    protected int year;
+    private String major;
+    private int year;
 
     // constructors
     public CollegeStudent(String name, int age, String gender, String idNum, double GPA, String major, int year) {

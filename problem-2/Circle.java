@@ -1,6 +1,6 @@
 public class Circle extends Shape {
     // instance fariables
-    protected double radius;
+    private double radius;
 
     // constructors
     public Circle() {

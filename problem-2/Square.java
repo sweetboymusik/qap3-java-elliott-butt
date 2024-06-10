@@ -37,7 +37,7 @@ public class Square extends Rectangle {
 
     @Override
     public String toString() {
-        return "A square with sides of " + this.width
+        return "A square with sides of " + this.getWidth()
                 + ", which is a subclass of " + super.toString();
     }
 

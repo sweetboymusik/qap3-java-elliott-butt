@@ -1,7 +1,7 @@
 public class Rectangle extends Shape {
     // instance variables
-    protected double width;
-    protected double length;
+    private double width;
+    private double length;
 
     // constructors
     public Rectangle() {

@@ -1,7 +1,7 @@
 public class Shape {
     // instance variables
-    protected String color;
-    protected boolean filled;
+    private String color;
+    private boolean filled;
 
     // constructors
     public Shape() {

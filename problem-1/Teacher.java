@@ -1,7 +1,7 @@
 public class Teacher extends Person {
     // instance variables
-    protected String subject;
-    protected double salary;
+    private String subject;
+    private double salary;
 
     // constructors
     public Teacher(String name, int age, String gender, String subject, double salary) {
